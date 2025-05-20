@@ -1,0 +1,11 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "driver": "SQLite",
+            "database": "${workspaceFolder:python-p3-setting-up-sqlite}/chinook.db",
+            "name": "MySQL-Local",
+            "group": "Chinook Connections"
+        }
+    ]
+}
